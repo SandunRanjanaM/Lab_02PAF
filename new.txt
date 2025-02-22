@@ -1,0 +1,12 @@
+cd "C:\Users\User\Desktop\PAF"
+
+git clone https://github.com/SandunRanjanaM/Lab_02PAF.git
+
+cd Lab_02PAF
+
+git branch feature/branch1
+
+git push origin feature/branch1
+
+git checkout feature/branch1
+
